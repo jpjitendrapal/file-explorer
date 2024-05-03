@@ -1,7 +1,7 @@
 {
   "name": "file-explorer",
   "version": "0.1.0",
-  "homepage": "https://jpjitendrapal.github.io/file-explorer/build",
+  "homepage": "https://jpjitendrapal.github.io/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
